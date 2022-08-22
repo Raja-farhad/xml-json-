@@ -1,0 +1,10 @@
+{
+    "record":[
+        {"name": "farhad", "email": "muhammadfarhad8844@gmail.com", "phone": "03153874877", "semester": "dism", "job": "developer"},
+        {"name": "ali", "email": "muhammadfarhad8844@gmail.com", "phone": "03153874877", "semester": "dism", "job": "developer"},
+        {"name": "asjad", "email": "muhammadfarhad8844@gmail.com", "phone": "03153874877", "semester": "dism", "job": "developer"},
+        {"name": "sameer", "email": "muhammadfarhad8844@gmail.com", "phone": "03153874877", "semester": "dism", "job": "developer"},
+        {"name": "rehan", "email": "muhammadfarhad8844@gmail.com", "phone": "03153874877", "semester": "dism", "job": "developer"}
+
+    ]
+}
